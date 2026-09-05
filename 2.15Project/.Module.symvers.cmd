@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/CSCI-431-OperatingSystem/2.15Project/Module.symvers := sed 's/\.ko$$/\.o/' /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/modules.order | scripts/mod/modpost -m -a  -o /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/Module.symvers -e -i Module.symvers   -T -

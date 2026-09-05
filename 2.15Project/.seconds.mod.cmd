@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.mod := { echo  /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.o;  echo; } > /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.mod

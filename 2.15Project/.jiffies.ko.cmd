@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/CSCI-431-OperatingSystem/2.15Project/jiffies.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/jiffies.ko /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/jiffies.o /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/jiffies.mod.o;  true

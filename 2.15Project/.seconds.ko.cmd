@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.ko /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.o /home/ubuntu/CSCI-431-OperatingSystem/2.15Project/seconds.mod.o;  true

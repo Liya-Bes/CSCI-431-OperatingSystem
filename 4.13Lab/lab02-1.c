@@ -8,7 +8,7 @@ void* runner(void* param);
 
 int main(int argc, char *argv[])
 {
-    int Num = 8;
+    int Num = atoi(argv[1]);
     pthread_t threads[Num];//num of threads
     int thread_num[Num];
     pthread_attr_t attr;
